@@ -11,7 +11,7 @@ Ready to elevate your gameplay? Grab the latest official build below:
 # 🚀 Ultimate Rainbow Six Siege Enhancement Script
 Welcome to the most customizable and feature-rich script designed to elevate your gameplay in Rainbow Six Siege. Engineered for precision, fluidity, and safety, this script bridges the gap between raw skill and perfect execution.
 
-![Main Dashboard](image_99039d.png)
+<img width="1096" height="868" alt="image" src="https://github.com/user-attachments/assets/ebbea7af-62ce-4f49-b71f-a9dda8948c2a" />
 
 ---
 
@@ -22,8 +22,9 @@ Welcome to the most customizable and feature-rich script designed to elevate you
 * **Humanized Randomization:** Built-in micro-variations prevent detection and mimic natural mouse movement.
 * **On-the-Fly Adjustments:** Tweak your recoil strengths mid-game using simple hotkeys.
 
-![Waveform Pattern Designer](image_98ff64.png)
-![Synthesizer Fine Tuning Menu](image_990322.png)
+<img width="1096" height="869" alt="image" src="https://github.com/user-attachments/assets/bc6e8bad-6e26-44d0-a375-2c55051ff27d" />
+<img width="1094" height="864" alt="image" src="https://github.com/user-attachments/assets/a0888d2d-73ce-4c3d-8252-bcbd0aef02d6" />
+
 
 ### ⌨️ Dynamic Keybinds
 * **Fully Remap:** Assign every single feature to any key on your keyboard or extra mouse buttons.
